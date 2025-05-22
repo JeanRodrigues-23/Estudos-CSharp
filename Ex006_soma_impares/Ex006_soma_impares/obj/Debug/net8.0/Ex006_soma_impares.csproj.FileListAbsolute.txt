@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\bin\Debug\net8.0\Ex006_soma_impares.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\bin\Debug\net8.0\Ex006_soma_impares.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\bin\Debug\net8.0\Ex006_soma_impares.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\bin\Debug\net8.0\Ex006_soma_impares.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\bin\Debug\net8.0\Ex006_soma_impares.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\refint\Ex006_soma_impares.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\Ex006_soma_impares.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex006_soma_impares\Ex006_soma_impares\obj\Debug\net8.0\ref\Ex006_soma_impares.dll

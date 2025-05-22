@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jean\\Documents\\Estudos\\Linguagens\\C#\\Ex006_soma_impares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC8AB67-C9AE-43DA-B9C7-3CA82B760A16}|Ex006_soma_impares\\Ex006_soma_impares.csproj|c:\\users\\jean\\documents\\estudos\\linguagens\\c#\\ex006_soma_impares\\ex006_soma_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC8AB67-C9AE-43DA-B9C7-3CA82B760A16}|Ex006_soma_impares\\Ex006_soma_impares.csproj|solutionrelative:ex006_soma_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jean\\Documents\\Estudos\\Linguagens\\C#\\Ex006_soma_impares\\Ex006_soma_impares\\Program.cs",
+              "RelativeDocumentMoniker": "Ex006_soma_impares\\Program.cs",
+              "ToolTip": "C:\\Users\\Jean\\Documents\\Estudos\\Linguagens\\C#\\Ex006_soma_impares\\Ex006_soma_impares\\Program.cs",
+              "RelativeToolTip": "Ex006_soma_impares\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:03:59.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

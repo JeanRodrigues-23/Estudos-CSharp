@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\bin\Debug\net8.0\Ex007_soma_vetor.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\bin\Debug\net8.0\Ex007_soma_vetor.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\bin\Debug\net8.0\Ex007_soma_vetor.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\bin\Debug\net8.0\Ex007_soma_vetor.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\bin\Debug\net8.0\Ex007_soma_vetor.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\refint\Ex007_soma_vetor.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\Ex007_soma_vetor.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex007_soma_vetor\Ex007_soma_vetor\obj\Debug\net8.0\ref\Ex007_soma_vetor.dll

@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\bin\Debug\net8.0\Ex002_retangulo.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\bin\Debug\net8.0\Ex002_retangulo.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\bin\Debug\net8.0\Ex002_retangulo.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\bin\Debug\net8.0\Ex002_retangulo.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\bin\Debug\net8.0\Ex002_retangulo.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\refint\Ex002_retangulo.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\Ex002_retangulo.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex002_retangulo\Ex002_retangulo\obj\Debug\net8.0\ref\Ex002_retangulo.dll

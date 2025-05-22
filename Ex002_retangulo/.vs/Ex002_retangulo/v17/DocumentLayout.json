@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jean\\Documents\\Estudos\\Linguagens\\C#\\Ex002_retangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468579B9-1646-4817-B5DF-6FF62AF19EFF}|Ex002_retangulo\\Ex002_retangulo.csproj|c:\\users\\jean\\documents\\estudos\\linguagens\\c#\\ex002_retangulo\\ex002_retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468579B9-1646-4817-B5DF-6FF62AF19EFF}|Ex002_retangulo\\Ex002_retangulo.csproj|solutionrelative:ex002_retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jean\\Documents\\Estudos\\Linguagens\\C#\\Ex002_retangulo\\Ex002_retangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Ex002_retangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Jean\\Documents\\Estudos\\Linguagens\\C#\\Ex002_retangulo\\Ex002_retangulo\\Program.cs",
+              "RelativeToolTip": "Ex002_retangulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:01:40.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

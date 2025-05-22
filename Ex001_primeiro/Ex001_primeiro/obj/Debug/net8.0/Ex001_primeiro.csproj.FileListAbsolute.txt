@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\bin\Debug\net8.0\Ex001_primeiro.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\bin\Debug\net8.0\Ex001_primeiro.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\bin\Debug\net8.0\Ex001_primeiro.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\bin\Debug\net8.0\Ex001_primeiro.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\bin\Debug\net8.0\Ex001_primeiro.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\refint\Ex001_primeiro.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\Ex001_primeiro.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex001_primeiro\Ex001_primeiro\obj\Debug\net8.0\ref\Ex001_primeiro.dll

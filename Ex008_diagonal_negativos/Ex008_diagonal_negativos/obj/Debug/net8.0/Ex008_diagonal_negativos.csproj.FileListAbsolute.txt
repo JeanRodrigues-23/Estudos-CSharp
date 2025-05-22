@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\bin\Debug\net8.0\Ex008_diagonal_negativos.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\bin\Debug\net8.0\Ex008_diagonal_negativos.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\bin\Debug\net8.0\Ex008_diagonal_negativos.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\bin\Debug\net8.0\Ex008_diagonal_negativos.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\bin\Debug\net8.0\Ex008_diagonal_negativos.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\refint\Ex008_diagonal_negativos.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\Ex008_diagonal_negativos.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex008_diagonal_negativos\Ex008_diagonal_negativos\obj\Debug\net8.0\ref\Ex008_diagonal_negativos.dll

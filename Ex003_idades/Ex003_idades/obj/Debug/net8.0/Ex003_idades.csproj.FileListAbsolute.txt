@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\bin\Debug\net8.0\Ex003_idades.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\bin\Debug\net8.0\Ex003_idades.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\bin\Debug\net8.0\Ex003_idades.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\bin\Debug\net8.0\Ex003_idades.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\bin\Debug\net8.0\Ex003_idades.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\refint\Ex003_idades.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\Ex003_idades.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex003_idades\Ex003_idades\obj\Debug\net8.0\ref\Ex003_idades.dll

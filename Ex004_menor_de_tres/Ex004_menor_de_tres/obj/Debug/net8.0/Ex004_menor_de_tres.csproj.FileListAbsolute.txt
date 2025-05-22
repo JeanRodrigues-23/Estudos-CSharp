@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\bin\Debug\net8.0\Ex004_menor_de_tres.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\bin\Debug\net8.0\Ex004_menor_de_tres.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\bin\Debug\net8.0\Ex004_menor_de_tres.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\bin\Debug\net8.0\Ex004_menor_de_tres.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\bin\Debug\net8.0\Ex004_menor_de_tres.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\refint\Ex004_menor_de_tres.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\Ex004_menor_de_tres.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex004_menor_de_tres\Ex004_menor_de_tres\obj\Debug\net8.0\ref\Ex004_menor_de_tres.dll

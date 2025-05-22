@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\bin\Debug\net8.0\Ex005_crescente.exe
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\bin\Debug\net8.0\Ex005_crescente.deps.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\bin\Debug\net8.0\Ex005_crescente.runtimeconfig.json
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\bin\Debug\net8.0\Ex005_crescente.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\bin\Debug\net8.0\Ex005_crescente.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.AssemblyInfo.cs
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\refint\Ex005_crescente.dll
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.pdb
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\Ex005_crescente.genruntimeconfig.cache
+C:\Users\Jean\Documents\Estudos\Linguagens\C#\Ex005_crescente\Ex005_crescente\obj\Debug\net8.0\ref\Ex005_crescente.dll
